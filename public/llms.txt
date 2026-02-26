@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Create physics simulations online free with Physics Molars. Design custom interactive scenes, explore physics concepts hands-on, and save your work instantly.
+
+### Scene Builder
+https://example.com/builder
+Unleash creativity with our interactive physics simulation tool. Drag, drop, and customize objects to build dynamic physics scenes that bring concepts to life.
+
+### Curriculum
+https://example.com/curriculum
+Explore structured physics education software for students with ready-made simulations, lesson plans, and interactive activities aligned to learning standards.
+
+### Contact
+https://example.com/contact
+Have questions about our physics education software for students? Contact Physics Molars for support, partnership inquiries, or to share your simulation ideas.
+
+### Products
+https://example.com/products
+Our Products - Physics Molars
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Physics Molars
+
+### Category
+https://example.com/category/:slug
+Products - Physics Molars
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
